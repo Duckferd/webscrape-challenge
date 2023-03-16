@@ -2,7 +2,7 @@
 Module 11 Webscraping challenge
 
 ## Project Description:
-This is the assignment submission for challenge #12- Webscraping Challenge. 
+This is the assignment submission for challenge #11- Webscraping Challenge. 
 
 ## Getting Started and Installation:
 There are two scripts contained. These can be run in Jupyter Notebook. The scripts will each open a Mars related website in your default browser, scrape relevant information and run analysis through Pandas.
